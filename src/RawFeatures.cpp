@@ -29,6 +29,7 @@
 #include "Config.h"
 #include "Sample.h"
 #include "Rect.h"
+#include <opencv2/imgproc/imgproc.hpp>
 
 #include <iostream>
 
